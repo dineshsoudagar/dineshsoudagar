@@ -26,5 +26,5 @@ Most of my work focuses on building efficient, privacy-first AI systems that run
 
 ## 🔗 Links
 
-- 🌐 [Website](https://dineshsoudagar.github.io)  
-- 💼 [LinkedIn](https://linkedin.com/in/dinesh-soudagar-488275100)  
+- 💼 [LinkedIn](https://linkedin.com/in/dinesh-soudagar-488275100)
+- email - dinesh.soudagar@gmail.com
