@@ -16,11 +16,6 @@ Most of my work focuses on building efficient, privacy-first AI systems that run
 - **[llm-lab-from-scratch-to-fine-tuning](https://github.com/dineshsoudagar/llm-lab-from-scratch-to-fine-tuning)**  
   Tools for training and fine-tuning large language models from scratch.
 
----
-
-## 🛠 Tech
-
-`PyTorch` · `ONNX Runtime` · `Hugging Face` · `Android` · `TensorRT` · `C++`
 
 ---
 
