@@ -9,7 +9,7 @@ Most of my work focuses on building efficient, privacy-first AI systems that run
 
 - **[Local LLMs on Android](https://github.com/dineshsoudagar/local-llms-on-android)**  
   Run Qwen and LLaMA models offline on Android with streaming token generation.
-<p align="center">
+<p align="left">
   <img src="local llms andriod.png" alt="local llms on android img" width="30%" />
 </p>
 
