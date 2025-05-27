@@ -29,6 +29,3 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshsoudagar&show_icons=true&theme=radical)
