@@ -8,7 +8,7 @@ Most of my work focuses on building efficient, privacy-first AI systems that run
 ## 🧪 Projects
 
 - **[local-llms-on-android](https://github.com/dineshsoudagar/local-llms-on-android)**  
-  Run Qwen and LLaMA models offline on Android with streaming token generation.
+Run Qwen2.5, Qwen3, Gemma, and LLaMA models offline on Android with streaming token generation, KV-cache reuse, and multi-turn chat
 
 - **[multi-task-neural-networks-for-ADAS](https://github.com/dineshsoudagar/multi-task-neural-networks-for-ADAS)**  
   multi-task neural network architecture
