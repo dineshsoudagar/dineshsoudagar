@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Dinesh Soudagar
 
-I'm an AI engineer working on deep learning for autonomous driving and on-device LLMs.  
-Most of my work focuses on building efficient, privacy-first AI systems that run entirely offline.
-
+I'm an AI engineer deeply passionate about deep learning and its applications in real world. 
 ---
 
 ## 🧪 Projects
