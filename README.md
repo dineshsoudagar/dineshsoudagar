@@ -8,11 +8,11 @@ I focus on offline-first AI products, efficient inference, retrieval systems, an
 
 ## Projects
 
-### [local-document-intelligence](https://github.com/dineshsoudagar/local-document-intelligence)
-Privacy-first offline document intelligence system with persistent local RAG, hybrid retrieval, and source-grounded answers.
-
 ### [local-llms-on-android](https://github.com/dineshsoudagar/local-llms-on-android)
 Run local LLMs like Gemma, Qwen, and LLaMA on Android for offline, private, real-time chat and question answering using LiteRT and ONNX Runtime.
+
+### [local-document-intelligence](https://github.com/dineshsoudagar/local-document-intelligence)
+Privacy-first offline document intelligence system with persistent local RAG, hybrid retrieval, and source-grounded answers.
 
 ### [multi-task-neural-networks-for-ADAS](https://github.com/dineshsoudagar/multi-task-neural-networks-for-ADAS)
 Multi-task neural network architecture for ADAS-focused perception tasks.
